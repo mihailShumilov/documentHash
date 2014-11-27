@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     },
     "license": "LGPL-2.1",
 	"repositories": [
@@ -18,5 +18,5 @@
             "url": "https://github.com/mihailShumilov/documentHash.git",
             "type": "git"
         }
-    ],
+    ]
 }
